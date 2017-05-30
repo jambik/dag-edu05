@@ -1,0 +1,38 @@
+body, td, input { font-family: 'Roboto Condensed', sans-serif; font-size: 14pt; }
+body { color: #333; }
+
+h1 { font-size: 40pt; font-weight: 300; }
+h2 { font-size: 30pt; font-weight: 300; }
+h3 { font-size: 24pt; font-weight: 300; }
+h4 { font-size: 18pt; font-weight: 300; }
+
+.text-xxl { font-size: 62pt; font-weight: 300; text-transform: uppercase; }
+.text-xl { font-size: 40pt; font-weight: 300; text-transform: uppercase; }
+.text-l { font-size: 26pt; font-weight: 300; text-transform: uppercase; }
+.text-shadow { text-shadow: 2px 2px 4px #000; }
+.text-shadow-lg { text-shadow: 0 0 20px rgba(0,0,0,0.5); }
+.box-shadow { box-shadow: 2px 2px 10px rgba(0,0,0,0.5); }
+
+.main-container { background: #fff; }
+
+.header-caption { padding: 20px; background: #f0ad4e; font-size: 28pt; border-radius: 10px; margin: 20px 0 20px 0; }
+.course a { overflow: hidden; display: block; }
+.more-links a { display: block; position: relative; margin-top: -46px; padding: 10px 20px; background: rgba(100, 100, 100, 0.8); color: #fff; text-decoration: none; }
+
+
+/* -------------------- Responsive classes ------------------- */
+
+/* Extra small devices - less than 768 */
+@media (max-width: 767px) {
+
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}

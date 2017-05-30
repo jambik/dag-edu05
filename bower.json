@@ -1,0 +1,26 @@
+{
+  "name": "sellmecar.ru",
+  "version": "1.0.0",
+  "description": "sellmecar.ru html",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "jambik"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "animate.css": "^3.5.2",
+    "bootstrap": "^3.3.7",
+    "bootswatch": "^3.3.7"
+  }
+}
