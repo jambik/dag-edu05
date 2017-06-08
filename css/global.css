@@ -22,7 +22,7 @@ h4 { font-size: 18pt; font-weight: 300; }
 
 .logo-white { margin: 10px 0 0 0; }
 .logo-white img { float: left; }
-.logo-white .logo-text { float: left; }
+.logo-white .logo-text { float: left; margin: 10px 0 0 5px; }
 .logo-white .logo-name { font-size: 14pt; }
 .logo-white .logo-sub { font-size: 12pt; }
 
