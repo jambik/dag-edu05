@@ -35,7 +35,7 @@ h4 { font-size: 18pt; font-weight: 300; }
 
 /* Extra small devices - less than 768 */
 @media (max-width: 767px) {
-    .more-links a { font-size: 12pt; margin-top: -64px; padding: 10px 0; }
+    .more-links a { font-size: 12pt; margin-top: 0; padding: 10px 0; }
     .logo .logo-name { font-size: 10pt; margin-top: 15px; }
     .logo .logo-sub { font-size: 9pt; }
     .header-caption { font-size: 18pt; }
