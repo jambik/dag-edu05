@@ -15,11 +15,16 @@ h4 { font-size: 18pt; font-weight: 300; }
 
 .main-container { background: #fff; }
 
-.logo {}
 .logo img { float: left; }
 .logo .logo-text { float: left; }
 .logo .logo-name { font-size: 20pt; }
 .logo .logo-sub { font-size: 16pt; }
+
+.logo-white { margin: 10px 0 0 0; }
+.logo-white img { float: left; }
+.logo-white .logo-text { float: left; }
+.logo-white .logo-name { font-size: 16pt; }
+.logo-white .logo-sub { font-size: 14pt; }
 
 .header-caption { padding: 15px; background: #0b76cc; color: #fff; font-size: 28pt; border-radius: 10px; margin: 20px 0 20px 0; }
 .course a { overflow: hidden; display: block; }
