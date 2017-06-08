@@ -15,24 +15,30 @@ h4 { font-size: 18pt; font-weight: 300; }
 
 .main-container { background: #fff; }
 
-.header-caption { padding: 20px; background: #f0ad4e; font-size: 28pt; border-radius: 10px; margin: 20px 0 20px 0; }
+.logo {}
+.logo img { float: left; }
+.logo .logo-text { float: left; }
+.logo .logo-name { font-size: 20pt; }
+.logo .logo-sub { font-size: 16pt; }
+
+.header-caption { padding: 15px; background: #0b76cc; color: #fff; font-size: 28pt; border-radius: 10px; margin: 20px 0 20px 0; }
 .course a { overflow: hidden; display: block; }
-.more-links a { display: block; position: relative; margin-top: -46px; padding: 10px 20px; background: rgba(100, 100, 100, 0.8); color: #fff; text-decoration: none; }
+.more-links a { display: block; font-size: 18pt; position: relative; margin-top: -54px; padding: 10px 0; background: rgba(100, 100, 100, 0.8); color: #fff; text-decoration: none; }
 
 
 /* -------------------- Responsive classes ------------------- */
 
 /* Extra small devices - less than 768 */
 @media (max-width: 767px) {
-
+    .more-links a { font-size: 12pt; margin-top: -64px; padding: 10px 0; }
 }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991px) {
-
+    .more-links a { font-size: 15pt; margin-top: -76px; padding: 10px 0; }
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199px) {
-
+    .more-links a { font-size: 15pt; margin-top: -48px; padding: 10px 0; }
 }
