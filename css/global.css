@@ -30,6 +30,8 @@ h4 { font-size: 18pt; font-weight: 300; }
 .course a { overflow: hidden; display: block; }
 .more-links a { display: block; font-size: 18pt; position: relative; margin-top: -56px; padding: 10px 0; background: rgba(100, 100, 100, 0.8); color: #fff; text-decoration: none; }
 
+ul.menu { padding: 15px; margin: 20px 0 40px 0; list-style: none; background: #c5dbfb; border:1px solid #aaa; border-radius: 10px; max-width: 300px; }
+ul.menu li { margin: 5px 0; }
 
 /* -------------------- Responsive classes ------------------- */
 
