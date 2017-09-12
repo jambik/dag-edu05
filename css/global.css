@@ -32,7 +32,7 @@ h4 { font-size: 18pt; font-weight: 300; }
 
 ul.menu { list-style: none; padding: 0; }
 ul.menu li { float: left; }
-ul.menu li a { display: inline-block; font-size: 12pt; padding: 10px; margin: 5px 6px; background: #0c6dc4; color: #fff; border-radius: 10px; }
+ul.menu li a { display: inline-block; font-size: 12pt; padding: 10px; margin: 5px 4px; background: rgba(255, 255, 255, 0.8); color: #0c6dc4; border-radius: 10px; }
 
 /* -------------------- Responsive classes ------------------- */
 
